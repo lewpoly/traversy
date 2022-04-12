@@ -3,6 +3,15 @@
 const name1 = 'Jeff';
 const name2 = new String('Jeff');
 
+// TODO: write this better
+// WARN: escape with your life
+// HACK:
+// PERF: refactor this
+// NOTE: 
+// INFO:
+// BUG: 
+// FIXME: laksdflkasdf
+
 console.log(name2);
 
 console.log(typeof name2);
