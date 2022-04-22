@@ -7,9 +7,9 @@ const name2 = new String('Jeff');
 // WARN: escape with your life
 // HACK:
 // PERF: refactor this
-// NOTE: 
+// NOTE:
 // INFO:
-// BUG: 
+// BUG:
 // FIXME: laksdflkasdf
 
 console.log(name2);
@@ -49,13 +49,13 @@ console.log(john);
 console.log(john2);
 
 // Arrays
-const arr1 = [1,2,3,4]
-const arr2 = new Array(1,2,3,4)
-console.log(arr1)
-console.log(arr2)
+const arr1 = [1, 2, 3, 4];
+const arr2 = new Array(1, 2, 3, 4);
+console.log(arr1);
+console.log(arr2);
 
 // Regular Expression
 const re1 = /\w+/;
-const re2 = new RegExp('\\w+')
-console.log(re1)
-console.log(re2)
+const re2 = new RegExp('\\w+');
+console.log(re1);
+console.log(re2);
